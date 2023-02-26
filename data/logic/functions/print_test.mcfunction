@@ -1,0 +1,2 @@
+tellraw @a [{"translate":"hfp.mini.load.noinstall1","fallback":"Resource Pack needs to be installed and enabled.","color":"red","bold":true}]
+tellraw @a [{"translate":"hfp.mini.load.noinstall2","fallback":"(If you have enabled language packs, your language may not be supported.)","color":"gray"}]
